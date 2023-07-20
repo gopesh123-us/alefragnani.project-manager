@@ -1,0 +1,254 @@
+[
+	{
+		"name": "JQueryHTML5Application",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\javascript-src\\JQueryHTML5Application",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "AdvancedJQuery",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\javascript-src\\jquery.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Javascript-Angular-TypeScript",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\vscode-workspaces\\javascript-workspace.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "DevOps",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\DevOps\\DevOps.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "angular-springboot-28minutes",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\java-src\\angular-springboot-in28minutes-udemy\\full-stack-ang-sprng-java\\full-stack-with-angular-and-spring-boot",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Maven Tutorial",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\java-src\\maven.tutorial-workspace.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "GIT-Training",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\DevOps\\Git-Training-Udemy\\projects\\rebase-example\\rebase-example.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "today-i-learned",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\udemy-fullstack-webapp\\today-i-learned",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "fictional-university",
+		"rootPath": "c:\\Users\\gopes\\Local Sites\\fictional-university",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "honor",
+		"rootPath": "c:\\Users\\gopes\\Local Sites\\honor",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "wordpress-workspace",
+		"rootPath": "c:\\Users\\gopes\\wordpress.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "bootstrap5-udemy",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\bootstrap\\bootstrap5\\bootstrap-sandbox\\bootstrap-sandbox\\bootstrap-sandbox-start",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "React-Context-Api-Thapa",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\reactcontextapi\\reactcontextapi.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "todo_react_app_thapa",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\reacttsthapa\\todo_react_app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "react-basics-dave",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\reactdave\\react-basics-dave",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "React-Full-Course-Thapa",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\reactfullcoursethapa\\react-full-course",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "durgasir_multithreading",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\java-src\\concurrency_multithreading\\durgasir_multithreading",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "hibernate-mapping-durgasoft-nagoor-babu",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\java-src\\hibernate\\nagoor-babu\\projects\\hibernate-mapping-file",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "core-java-durgasoft-nagoor-babu",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\java-src\\core-java-durgasoft\\nagoor-babu\\programs\\programs.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "PHP_Beginners",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\php\\phpforbeginners\\www",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "php-mvc-framework",
+		"rootPath": "c:\\Program Files\\Ampps\\www",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "vimclass",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\Linux-Training\\Vim_Master_Class_Jason_Cannon\\vimclass\\vimclass.code-workspace",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Laragon-Laravel10-PHP-Udemy",
+		"rootPath": "c:\\laragon\\www",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "live-covid-tracker-app",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\thapaTechnical\\live-covid-tracker-app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "interactive-react-app",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\reactdave\\interactive-app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "bootstrap-cards-example",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\bootstrap\\bootstrap-cards-example",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "react-search-bar-youtube",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\react-search-bar",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "react-search-bar",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\react-search-bar",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "material-ui-tutorials-ninja",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\material-ui\\apps\\material-tut",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "modern-javascript-ninja-udemy",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\JavaScript\\modern-javascript-ninja-udemy\\chapter-1",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "bootstrap5-navbar-designer-who-codes",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\bootstrap\\bootstrap5-navbar",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "bootstrap5-brad-traversy-udemy",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\bootstrap\\bootstrap5\\bootstrap-sandbox\\bootstrap-sandbox\\bootstrap-sandbox-start",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "01-pure-react-jonas-udemy",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\react-udemy-jonas\\apps\\01-pure-react",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "03-pizza-menu-react-udemy",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\react-udemy-jonas\\apps\\03-pizza-menu",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "02-js-review-udemy-jonas",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\react\\react-udemy-jonas\\apps\\02-js-review",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "javascript-codevolution-course",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\JavaScript\\codevolution-javascript-course\\concepts",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	}
+]
