@@ -243,5 +243,26 @@
 		"paths": [],
 		"tags": [],
 		"enabled": true
+	},
+	{
+		"name": "bytegrade-social-editor-v2",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\CSS-HTML\\bytegrade-professionalcss-v2\\social-editor",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "learn-css-webdev",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\3-SAVERA STAFFING\\1-Gopesh\\trainings\\CSS-HTML\\learn-css-webdev",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "hotel-booking-app-laravel",
+		"rootPath": "c:\\xampp8.2.4\\htdocs\\Proj1\\hotel\\hotel-booking-app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
 	}
 ]
