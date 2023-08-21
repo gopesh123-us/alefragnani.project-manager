@@ -264,5 +264,26 @@
 		"paths": [],
 		"tags": [],
 		"enabled": true
+	},
+	{
+		"name": "liveidea-app",
+		"rootPath": "c:\\laragon\\www\\liveidea-app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "livepost-app",
+		"rootPath": "c:\\laragon\\www\\livepost-app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "laravel-test-project",
+		"rootPath": "c:\\laragon\\www\\laravel-test-project",
+		"paths": [],
+		"tags": [],
+		"enabled": true
 	}
 ]
