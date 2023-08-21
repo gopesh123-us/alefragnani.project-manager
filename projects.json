@@ -147,7 +147,7 @@
 		"enabled": true
 	},
 	{
-		"name": "Laragon-Laravel10-PHP-Udemy",
+		"name": "Laragon-Laravel10-PHP-Udemy-Multi-Vendor-Ecommerce",
 		"rootPath": "c:\\laragon\\www",
 		"paths": [],
 		"tags": [],
@@ -261,6 +261,13 @@
 	{
 		"name": "hotel-booking-app-laravel",
 		"rootPath": "c:\\xampp8.2.4\\htdocs\\Proj1\\hotel\\hotel-booking-app",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "laravel-fundamentals-test-project-portfolio",
+		"rootPath": "c:\\laragon\\www\\test-project",
 		"paths": [],
 		"tags": [],
 		"enabled": true
