@@ -278,5 +278,12 @@
 		"paths": [],
 		"tags": [],
 		"enabled": true
+	},
+	{
+		"name": "laravel-test-project",
+		"rootPath": "c:\\laragon\\www\\laravel-test-project",
+		"paths": [],
+		"tags": [],
+		"enabled": true
 	}
 ]
