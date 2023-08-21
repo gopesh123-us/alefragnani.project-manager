@@ -264,5 +264,13 @@
 		"paths": [],
 		"tags": [],
 		"enabled": true
+	},
+	{
+		"name": "terraform",
+		"rootPath": "c:\\Users\\gopes\\Dropbox\\terraform",
+		"paths": [],
+		"tags": [],
+		"enabled": true
 	}
+
 ]
